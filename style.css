@@ -38,7 +38,9 @@ button:hover {
 }
 .increase{
     color: green;
+    font-size: 30px;
 }
 .decrease{
     color: red;
+    font-size: 30px;
 }
